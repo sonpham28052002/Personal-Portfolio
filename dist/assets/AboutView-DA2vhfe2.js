@@ -1,1 +1,0 @@
-import{_ as o,a as s,c as a,p as c,e as t,b as d}from"./index-YB7BnoZc.js";const _={},n=e=>(c("data-v-addd821c"),e=e(),t(),e),p={class:"about"},r=n(()=>d("h1",null,"This is an about page",-1)),i=[r];function h(e,u){return s(),a("div",p,i)}const f=o(_,[["render",h],["__scopeId","data-v-addd821c"]]);export{f as default};
