@@ -1,1 +1,0 @@
-import{_ as s,a as o,c,p as t,e as a,b as _}from"./index-YB7BnoZc.js";const d={},n=e=>(t("data-v-312f5d7f"),e=e(),a(),e),i={class:"about"},p=n(()=>_("h1",null,"This is an skill page",-1)),r=[p];function l(e,f){return o(),c("div",i,r)}const u=s(d,[["render",l],["__scopeId","data-v-312f5d7f"]]);export{u as default};
